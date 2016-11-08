@@ -1,1 +1,100 @@
 /* Inserta tu CSS aqui */
+div {
+	border: 1px solid white;
+	background-color: #4B9C2E;
+}
+.cancha {
+	width: 1000px;
+	height: 600px;
+}
+.linea {
+	position: relative;
+	top: 50px;
+	left: 50px;
+	width: 900px;
+	height: 500px;
+}
+.arco {
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	top: 150px;
+}
+.izquierdo {
+	border-left: transparent;
+}
+.derecho {
+    left: 749px;
+    border-right: transparent;
+}
+.circulo {
+	position: absolute;
+	top: 150px;
+	left: 350px;
+	width: 200px;
+	height: 200px;
+    border-radius: 100%;
+}
+img {
+	position: absolute;
+}
+.bola-uno {
+	top: 155px;
+	left: 140px;
+}
+.bola-dos {
+	top: 90px;
+	left: 450px;
+}
+.bola-tres {
+	top: 325px;
+	left: 720px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
